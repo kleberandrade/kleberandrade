@@ -8,9 +8,9 @@
 
 <div>
     <a href="https://github.com/kleberandrade?tab=repositories">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayarafreitas&layout=compact" width="400" height="200"/>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleberandrade&layout=compact" width="400" height="200"/>
     </a>
     <a href="https://github.com/kleberandrade?tab=repositories">
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=mayarafreitas&,issues&show_icons=true" width="400" height="200"/>
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=kleberandrade&,issues&show_icons=true" width="400" height="200"/>
     </a>
 </div>
