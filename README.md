@@ -1,7 +1,7 @@
 <a href="https://kleberandrade.dev/">
   <picture>
-  <source media="(max-width: 600px)" srcset="assets/hero-mobile.svg" />
-  <img src="assets/hero.svg" width="100%" alt="Kleber Andrade. Construo software. Compartilho conhecimento. CEO da Koativa e CTO da NVPro." />
+  <source media="(max-width: 600px)" srcset="assets/hero-mobile-v3.svg" />
+  <img src="assets/hero-v3.svg" width="100%" alt="Kleber Andrade. Construo software. Compartilho conhecimento. CEO da Koativa e CTO da NVPro." />
   </picture>
 </a>
 
@@ -18,10 +18,10 @@ Minha trajetória conecta **tecnologia financeira, inteligência artificial e ro
 
 ### 01 / Projetos para explorar
 
-<a href="https://github.com/kleberandrade/o-grimorio-dos-padroes"><img src="assets/project-grimorio.svg" width="390" alt="O Grimório dos Padrões — TypeScript, padrões GoF, testes e exercícios" /></a>
+<a href="https://github.com/kleberandrade/o-grimorio-dos-padroes"><img src="assets/project-grimorio-v3.svg" width="390" alt="O Grimório dos Padrões — TypeScript, padrões GoF, testes e exercícios" /></a>
 <a href="https://github.com/kleberandrade/masmorra-ascii-dart"><img src="assets/project-masmorra.svg" width="390" alt="Masmorra ASCII — aprenda Dart construindo um roguelike no terminal" /></a>
 <a href="https://github.com/kleberandrade/serious-games-for-health"><img src="assets/project-health.svg" width="390" alt="Serious Games for Health — pesquisa em jogos para educação em saúde" /></a>
-<a href="https://kleberandrade.dev/#projects"><img src="assets/project-portfolio.svg" width="390" alt="Portfólio — produtos, decisões de arquitetura e trajetória" /></a>
+<a href="https://kleberandrade.dev/#projects"><img src="assets/project-portfolio-v3.svg" width="390" alt="Portfólio — produtos, decisões de arquitetura e trajetória" /></a>
 
 **Experimente:** [23 padrões na prática ↗](https://o-grimorio-dos-padroes.vercel.app/) · [Dart na masmorra ↗](https://masmorra.io/) · [Todos os projetos ↗](https://kleberandrade.dev/#projects)
 
