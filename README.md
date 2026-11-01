@@ -1,95 +1,52 @@
-<h1 align="center">Hi 👋, I'm Kleber Andrade</h1>
+# Kleber Andrade
 
-<p align="center">
-  🧠 Researcher in my spare time | 👨‍💻 CTO & CEO @ Pagstar | 🇧🇷 Brazil
-</p>
+**Gestão, arquitetura e código para transformar problemas reais em produtos digitais.**
 
----
+CEO da [Koativa](https://koativa.com.br/) · CTO da NVPro · Pesquisador, desenvolvedor, escritor e palestrante.
 
-### 🌐 Connect with Me
+[Portfólio](https://kleberandrade.dev/) · [LinkedIn](https://www.linkedin.com/in/kleberandrade/) · [X](https://x.com/pdjkleber)
 
-<p align="center">
-  <a href="https://github.com/kleberandrade" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/kleberandrade/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/pdjkleber/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-</p>
+## Sobre
 
----
+Conecto estratégia, arquitetura de software e desenvolvimento, da definição do problema às decisões técnicas e à entrega. Minha trajetória reúne liderança em tecnologia no setor financeiro, pesquisa em inteligência artificial e robótica e mais de uma década ensinando programação e engenharia de software.
 
-### 🛠️ Main Technologies
+Sou doutor em Engenharia Mecânica pela USP e escrevo livros que aproximam tecnologia e fantasia. Gosto de tornar decisões técnicas mais claras, seja em um produto, em uma sala de aula ou em uma história.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-</p>
+## O que construo e compartilho
 
----
+- **Produtos e plataformas:** arquitetura de software, APIs, integrações e sistemas de pagamentos.
+- **IA aplicada:** pesquisa e desenvolvimento de soluções conectadas a problemas reais.
+- **Saúde e jogos:** experiências que aproximam software, hardware e reabilitação.
+- **Educação:** código, testes, exercícios, livros e palestras sobre engenharia de software.
 
-### 📚 Currently Learning
+## Projeto em destaque
 
-- DevOps
-- Magalu Cloud
+### [O Grimório dos Padrões](https://github.com/kleberandrade/o-grimorio-dos-padroes)
 
----
+Os 23 padrões de projeto do GoF explorados com histórias, código e prática. Projetos independentes em TypeScript, com testes, exercícios e comparações com alternativas mais simples, para entender quando usar cada padrão.
 
-### 💼 Professional Experience
+[Explorar o site de estudos](https://o-grimorio-dos-padroes.vercel.app/) · [Ver o código](https://github.com/kleberandrade/o-grimorio-dos-padroes)
 
-| Role | Company | Period |
-|------|---------|--------|
-| 🧑‍💼 CEO | KOATIVA | 2025 – Present |
-| 🧑‍💼 CEO | Zunna Studios | 2021 – 2025 |
-| 🧑‍💼 CEO | Pagstar | 2023 – Present |
-| 🧑‍💻 CTO | Pagstar | 2022 – Present |
-| 👨‍💻 Tech Lead | Pagstar | 2020 – 2022 |
+Outros projetos e experiências estão no [meu portfólio](https://kleberandrade.dev/), incluindo a **Lufta**, que aproxima software, hardware e jogos da reabilitação respiratória, e minha trajetória no setor de pagamentos.
 
----
+## Livros: tecnologia encontra fantasia
 
-### 🎓 Academic Background
+Escrevo histórias em que qualidade de código, arquitetura e trabalho em equipe fazem parte dos desafios dos personagens.
 
-- 🎓 **B.Sc.** in Computer Science – EEP (2008)  
-- 🎮 **Specialization** in Game Design – Positivo University (2018)  
-- 🧪 **M.Sc.** in Mechanical Engineering – EESC/USP (2011)  
-- 🧬 **Ph.D.** in Mechanical Engineering – EESC/USP (2016)  
+- **A Ordem do Código Limpo** — engenharia de software contada por meio da fantasia.
+- **O Grimório dos Padrões** — design patterns em 23 histórias.
+- **O Mestre dos Magos da Agilidade**, **A Ordem dos Product Owners Perdidos** e **O Último Sprint da Humanidade** — a segunda trilogia do universo.
 
----
+[Conheça os livros no meu site](https://kleberandrade.dev/)
 
-### 💡 Areas of Interest
+## Repertório técnico
 
-- 💳 Fintech & Anti-Fraud Solutions  
-- 🧠 Artificial Intelligence  
-- 🤖 Mobile & Rehabilitation Robotics  
-- 🎮 Serious Games & Game-Based Learning  
-- 🩺 Digital Health & Health Technologies  
+**Arquitetura e backend:** TypeScript, NestJS, C#, Python e Java.  
+**Aplicações e jogos:** Flutter, Unity e C++.  
+**Pesquisa:** inteligência artificial, robótica, jogos sérios e tecnologias para saúde.
 
----
+## Vamos conversar
 
-### 🏆 GitHub Trophies
+Produtos digitais, arquitetura de software, educação, palestras ou parcerias:
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kleberandrade&theme=flat&no-frame=true&margin-w=10" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kleberandrade&show_icons=true&count_private=true&theme=github_dark&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleberandrade&layout=compact&theme=github_dark&hide_border=true" height="180"/>
-</p>
-
----
-
-> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
-
+[Koativa](https://koativa.com.br/) · [LinkedIn](https://www.linkedin.com/in/kleberandrade/) · [Portfólio e livros](https://kleberandrade.dev/)
