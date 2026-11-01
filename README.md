@@ -1,5 +1,8 @@
 <a href="https://kleberandrade.dev/">
+  <picture>
+  <source media="(max-width: 600px)" srcset="assets/hero-mobile.svg" />
   <img src="assets/hero.svg" width="100%" alt="Kleber Andrade. Ideias ganham forma. Software gera impacto. CEO da Koativa e CTO da NVPro." />
+  </picture>
 </a>
 
 <p align="center">
@@ -19,8 +22,8 @@ Sou **gestor, pesquisador, desenvolvedor, escritor e palestrante**. Na **Koativa
 
 ### Em construção, em código, no mundo.
 
-<a href="https://github.com/kleberandrade/o-grimorio-dos-padroes"><img src="assets/project-grimorio.svg" width="49%" alt="O Grimório dos Padrões: 23 padrões GoF em projetos TypeScript com testes e exercícios. Abrir repositório." /></a>
-<a href="https://kleberandrade.dev/#projects"><img src="assets/project-portfolio.svg" width="49%" alt="Do problema ao produto: conheça projetos de pagamentos, saúde e jogos no portfólio." /></a>
+<a href="https://github.com/kleberandrade/o-grimorio-dos-padroes"><img src="assets/project-grimorio.svg" width="390" alt="O Grimório dos Padrões: 23 padrões GoF em projetos TypeScript com testes e exercícios. Abrir repositório." /></a>
+<a href="https://kleberandrade.dev/#projects"><img src="assets/project-portfolio.svg" width="390" alt="Do problema ao produto: conheça projetos de pagamentos, saúde e jogos no portfólio." /></a>
 
 [**Estude os padrões na prática →**](https://o-grimorio-dos-padroes.vercel.app/) &nbsp; · &nbsp; [Conheça a Lufta e outros projetos →](https://kleberandrade.dev/#projects)
 
