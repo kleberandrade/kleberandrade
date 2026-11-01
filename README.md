@@ -1,52 +1,57 @@
-# Kleber Andrade
+<a href="https://kleberandrade.dev/">
+  <img src="assets/hero.svg" width="100%" alt="Kleber Andrade. Ideias ganham forma. Software gera impacto. CEO da Koativa e CTO da NVPro." />
+</a>
 
-**Gestão, arquitetura e código para transformar problemas reais em produtos digitais.**
+<p align="center">
+  <a href="https://kleberandrade.dev/"><strong>Portfólio ↗</strong></a> &nbsp; · &nbsp;
+  <a href="https://koativa.com.br/">Koativa</a> &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/kleberandrade/">LinkedIn</a> &nbsp; · &nbsp;
+  <a href="https://x.com/pdjkleber">X / Twitter</a>
+</p>
 
-CEO da [Koativa](https://koativa.com.br/) · CTO da NVPro · Pesquisador, desenvolvedor, escritor e palestrante.
+### Estratégia para decidir. Engenharia para construir.
 
-[Portfólio](https://kleberandrade.dev/) · [LinkedIn](https://www.linkedin.com/in/kleberandrade/) · [X](https://x.com/pdjkleber)
+Sou **gestor, pesquisador, desenvolvedor, escritor e palestrante**. Na **Koativa**, conecto estratégia, arquitetura e desenvolvimento para transformar problemas reais em produtos digitais. Também atuo como **CTO da NVPro**.
 
-## Sobre
+**Doutor em Engenharia Mecânica pela USP**, com trajetória em tecnologia financeira, IA e robótica e mais de uma década ensinando programação e engenharia de software. Compartilho o que aprendo em código, livros e palestras.
 
-Conecto estratégia, arquitetura de software e desenvolvimento, da definição do problema às decisões técnicas e à entrega. Minha trajetória reúne liderança em tecnologia no setor financeiro, pesquisa em inteligência artificial e robótica e mais de uma década ensinando programação e engenharia de software.
+<br />
 
-Sou doutor em Engenharia Mecânica pela USP e escrevo livros que aproximam tecnologia e fantasia. Gosto de tornar decisões técnicas mais claras, seja em um produto, em uma sala de aula ou em uma história.
+### Em construção, em código, no mundo.
 
-## O que construo e compartilho
+<a href="https://github.com/kleberandrade/o-grimorio-dos-padroes"><img src="assets/project-grimorio.svg" width="49%" alt="O Grimório dos Padrões: 23 padrões GoF em projetos TypeScript com testes e exercícios. Abrir repositório." /></a>
+<a href="https://kleberandrade.dev/#projects"><img src="assets/project-portfolio.svg" width="49%" alt="Do problema ao produto: conheça projetos de pagamentos, saúde e jogos no portfólio." /></a>
 
-- **Produtos e plataformas:** arquitetura de software, APIs, integrações e sistemas de pagamentos.
-- **IA aplicada:** pesquisa e desenvolvimento de soluções conectadas a problemas reais.
-- **Saúde e jogos:** experiências que aproximam software, hardware e reabilitação.
-- **Educação:** código, testes, exercícios, livros e palestras sobre engenharia de software.
+[**Estude os padrões na prática →**](https://o-grimorio-dos-padroes.vercel.app/) &nbsp; · &nbsp; [Conheça a Lufta e outros projetos →](https://kleberandrade.dev/#projects)
 
-## Projeto em destaque
+<br />
 
-### [O Grimório dos Padrões](https://github.com/kleberandrade/o-grimorio-dos-padroes)
+### Tecnologia também se conta em histórias.
 
-Os 23 padrões de projeto do GoF explorados com histórias, código e prática. Projetos independentes em TypeScript, com testes, exercícios e comparações com alternativas mais simples, para entender quando usar cada padrão.
+Fantasia, arquitetura e decisões que todo time de software reconhece. Um pouco do meu universo de livros:
 
-[Explorar o site de estudos](https://o-grimorio-dos-padroes.vercel.app/) · [Ver o código](https://github.com/kleberandrade/o-grimorio-dos-padroes)
+<p align="center">
+  <a href="https://clubedeautores.com.br/livro/a-ordem-do-codigo-limpo-2"><img src="assets/books/codigo-limpo.webp" width="18%" alt="A Ordem do Código Limpo — conhecer o livro" /></a>&nbsp;
+  <a href="https://clubedeautores.com.br/livro/o-grimorio-dos-padroes"><img src="assets/books/grimorio.webp" width="18%" alt="O Grimório dos Padrões — conhecer o livro" /></a>&nbsp;
+  <a href="https://clubedeautores.com.br/livro/o-mestre-dos-magos-da-agilidade"><img src="assets/books/agilidade.webp" width="18%" alt="O Mestre dos Magos da Agilidade — conhecer o livro" /></a>&nbsp;
+  <a href="https://clubedeautores.com.br/livro/a-ordem-dos-product-owners-perdidos"><img src="assets/books/product-owners.webp" width="18%" alt="A Ordem dos Product Owners Perdidos — conhecer o livro" /></a>&nbsp;
+  <a href="https://clubedeautores.com.br/livro/o-ultimo-sprint-da-humanidade"><img src="assets/books/ultimo-sprint.webp" width="18%" alt="O Último Sprint da Humanidade — conhecer o livro" /></a>
+</p>
 
-Outros projetos e experiências estão no [meu portfólio](https://kleberandrade.dev/), incluindo a **Lufta**, que aproxima software, hardware e jogos da reabilitação respiratória, e minha trajetória no setor de pagamentos.
+<p align="center"><a href="https://kleberandrade.dev/#books"><strong>Explore os livros e seus universos →</strong></a></p>
 
-## Livros: tecnologia encontra fantasia
+<br />
 
-Escrevo histórias em que qualidade de código, arquitetura e trabalho em equipe fazem parte dos desafios dos personagens.
+### Meu repertório, em poucas linhas.
 
-- **A Ordem do Código Limpo** — engenharia de software contada por meio da fantasia.
-- **O Grimório dos Padrões** — design patterns em 23 histórias.
-- **O Mestre dos Magos da Agilidade**, **A Ordem dos Product Owners Perdidos** e **O Último Sprint da Humanidade** — a segunda trilogia do universo.
+**Backend & arquitetura** &nbsp; TypeScript · NestJS · C# · Python · Java<br />
+**Aplicações & jogos** &nbsp; Flutter · Dart · Unity · C++<br />
+**Pesquisa & prática** &nbsp; IA · Robótica · Jogos sérios · Tecnologias para saúde
 
-[Conheça os livros no meu site](https://kleberandrade.dev/)
+---
 
-## Repertório técnico
-
-**Arquitetura e backend:** TypeScript, NestJS, C#, Python e Java.  
-**Aplicações e jogos:** Flutter, Unity e C++.  
-**Pesquisa:** inteligência artificial, robótica, jogos sérios e tecnologias para saúde.
-
-## Vamos conversar
-
-Produtos digitais, arquitetura de software, educação, palestras ou parcerias:
-
-[Koativa](https://koativa.com.br/) · [LinkedIn](https://www.linkedin.com/in/kleberandrade/) · [Portfólio e livros](https://kleberandrade.dev/)
+<p align="center">
+  <strong>Vamos transformar uma ideia em algo que funciona?</strong><br /><br />
+  <a href="https://www.linkedin.com/in/kleberandrade/">Converse comigo no LinkedIn ↗</a> &nbsp; · &nbsp;
+  <a href="https://koativa.com.br/">Conheça a Koativa ↗</a>
+</p>

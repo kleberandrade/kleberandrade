@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title">
+<title id="title">Kleber Andrade — ideias ganham forma. Software gera impacto.</title>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101b29"/><stop offset="1" stop-color="#080d16"/></linearGradient><linearGradient id="accent"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#a78bfa"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#b1c7df" stroke-opacity=".045"/></pattern></defs>
+<rect width="1200" height="430" rx="20" fill="url(#bg)"/><rect width="1200" height="430" rx="20" fill="url(#grid)"/><path d="M24 1H1176" stroke="url(#accent)" stroke-width="2"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="52" y="57" fill="#5eead4" font-size="13" letter-spacing="3">ARQUITETURA / PRODUTOS / CONHECIMENTO</text>
+<text x="48" y="133" fill="#f2f5f9" font-size="64" font-weight="700" letter-spacing="-3">Kleber Andrade</text>
+<text x="52" y="202" fill="#f2f5f9" font-size="32" letter-spacing="-.6">Ideias ganham forma.</text><text x="52" y="246" fill="#5eead4" font-size="32" letter-spacing="-.6">Software gera impacto.</text>
+<text x="52" y="299" fill="#a9b7c9" font-size="18">Liderança técnica, pesquisa e histórias que ensinam.</text>
+<path d="M52 335H1148" stroke="#273445"/>
+<text x="52" y="382" fill="#dce6f2" font-size="15">CEO / KOATIVA</text><text x="233" y="382" fill="#dce6f2" font-size="15">CTO / NVPRO</text><text x="1148" y="382" text-anchor="end" fill="#5eead4" font-size="16">kleberandrade.dev ↗</text></g>
+<g fill="none" stroke="#5eead4"><circle cx="974" cy="175" r="112" opacity=".13"/><circle cx="974" cy="175" r="141" opacity=".07"/><ellipse cx="974" cy="175" rx="159" ry="54" transform="rotate(-35 974 175)" opacity=".27"/></g>
+<g transform="translate(890 110) scale(1.2)" fill="#5eead4"><path d="M12 12h12v72L12 96V12Zm12 36L60 12h20L42 48l38 48H60L24 48Zm44 0 16-20 44 68h-20L82 56 70 70 58 58Z"/></g><circle cx="1090" cy="87" r="5" fill="#a78bfa"/><circle cx="853" cy="256" r="3" fill="#5eead4"/></svg>
