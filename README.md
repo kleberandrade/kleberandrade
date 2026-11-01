@@ -1,7 +1,7 @@
 <a href="https://kleberandrade.dev/">
   <picture>
   <source media="(max-width: 600px)" srcset="assets/hero-mobile.svg" />
-  <img src="assets/hero.svg" width="100%" alt="Kleber Andrade. Ideias ganham forma. Software gera impacto. CEO da Koativa e CTO da NVPro." />
+  <img src="assets/hero.svg" width="100%" alt="Kleber Andrade. Construo software. Compartilho conhecimento. CEO da Koativa e CTO da NVPro." />
   </picture>
 </a>
 
@@ -12,26 +12,22 @@
   <a href="https://x.com/pdjkleber">X / Twitter</a>
 </p>
 
-### Estratégia para decidir. Engenharia para construir.
+Sou **Kleber Andrade**, CEO da **Koativa** e CTO da **NVPro**. Trabalho entre estratégia, arquitetura e desenvolvimento, da definição do problema à entrega do produto.
 
-Sou **gestor, pesquisador, desenvolvedor, escritor e palestrante**. Na **Koativa**, conecto estratégia, arquitetura e desenvolvimento para transformar problemas reais em produtos digitais. Também atuo como **CTO da NVPro**.
+Minha trajetória conecta **tecnologia financeira, inteligência artificial e robótica**. Sou doutor em Engenharia Mecânica pela **USP**, ensinei programação por mais de uma década e escrevo histórias para tornar a engenharia de software mais fácil de entender.
 
-**Doutor em Engenharia Mecânica pela USP**, com trajetória em tecnologia financeira, IA e robótica e mais de uma década ensinando programação e engenharia de software. Compartilho o que aprendo em código, livros e palestras.
+### 01 / Projetos para explorar
 
-<br />
+<a href="https://github.com/kleberandrade/o-grimorio-dos-padroes"><img src="assets/project-grimorio.svg" width="390" alt="O Grimório dos Padrões — TypeScript, padrões GoF, testes e exercícios" /></a>
+<a href="https://github.com/kleberandrade/masmorra-ascii-dart"><img src="assets/project-masmorra.svg" width="390" alt="Masmorra ASCII — aprenda Dart construindo um roguelike no terminal" /></a>
+<a href="https://github.com/kleberandrade/serious-games-for-health"><img src="assets/project-health.svg" width="390" alt="Serious Games for Health — pesquisa em jogos para educação em saúde" /></a>
+<a href="https://kleberandrade.dev/#projects"><img src="assets/project-portfolio.svg" width="390" alt="Portfólio — produtos, decisões de arquitetura e trajetória" /></a>
 
-### Em construção, em código, no mundo.
+**Experimente:** [23 padrões na prática ↗](https://o-grimorio-dos-padroes.vercel.app/) · [Dart na masmorra ↗](https://masmorra.io/) · [Todos os projetos ↗](https://kleberandrade.dev/#projects)
 
-<a href="https://github.com/kleberandrade/o-grimorio-dos-padroes"><img src="assets/project-grimorio.svg" width="390" alt="O Grimório dos Padrões: 23 padrões GoF em projetos TypeScript com testes e exercícios. Abrir repositório." /></a>
-<a href="https://kleberandrade.dev/#projects"><img src="assets/project-portfolio.svg" width="390" alt="Do problema ao produto: conheça projetos de pagamentos, saúde e jogos no portfólio." /></a>
+### 02 / Uma biblioteca de magia e código
 
-[**Estude os padrões na prática →**](https://o-grimorio-dos-padroes.vercel.app/) &nbsp; · &nbsp; [Conheça a Lufta e outros projetos →](https://kleberandrade.dev/#projects)
-
-<br />
-
-### Tecnologia também se conta em histórias.
-
-Fantasia, arquitetura e decisões que todo time de software reconhece. Um pouco do meu universo de livros:
+Nos meus livros, refatorações viram missões, decisões de arquitetura têm consequências e trabalhar em equipe faz parte da aventura.
 
 <p align="center">
   <a href="https://clubedeautores.com.br/livro/a-ordem-do-codigo-limpo-2"><img src="assets/books/codigo-limpo.webp" width="18%" alt="A Ordem do Código Limpo — conhecer o livro" /></a>&nbsp;
@@ -41,20 +37,23 @@ Fantasia, arquitetura e decisões que todo time de software reconhece. Um pouco 
   <a href="https://clubedeautores.com.br/livro/o-ultimo-sprint-da-humanidade"><img src="assets/books/ultimo-sprint.webp" width="18%" alt="O Último Sprint da Humanidade — conhecer o livro" /></a>
 </p>
 
-<p align="center"><a href="https://kleberandrade.dev/#books"><strong>Explore os livros e seus universos →</strong></a></p>
+**Para quem constrói software** · [Código limpo](https://clubedeautores.com.br/livro/a-ordem-do-codigo-limpo-2) e [padrões de projeto](https://clubedeautores.com.br/livro/o-grimorio-dos-padroes).<br />
+**Para quem conduz produtos e times** · [Agilidade](https://clubedeautores.com.br/livro/o-mestre-dos-magos-da-agilidade), [produto](https://clubedeautores.com.br/livro/a-ordem-dos-product-owners-perdidos) e [IA no trabalho](https://clubedeautores.com.br/livro/o-ultimo-sprint-da-humanidade).
 
-<br />
+[**Conheça a biblioteca completa →**](https://kleberandrade.dev/#books)
 
-### Meu repertório, em poucas linhas.
+### 03 / Ferramentas e campos de atuação
 
-**Backend & arquitetura** &nbsp; TypeScript · NestJS · C# · Python · Java<br />
+**Sistemas & APIs** &nbsp; TypeScript · NestJS · C# · Python · Java<br />
 **Aplicações & jogos** &nbsp; Flutter · Dart · Unity · C++<br />
-**Pesquisa & prática** &nbsp; IA · Robótica · Jogos sérios · Tecnologias para saúde
+**Pesquisa aplicada** &nbsp; Inteligência artificial · Robótica · Tecnologias para saúde
 
 ---
 
 <p align="center">
-  <strong>Vamos transformar uma ideia em algo que funciona?</strong><br /><br />
-  <a href="https://www.linkedin.com/in/kleberandrade/">Converse comigo no LinkedIn ↗</a> &nbsp; · &nbsp;
-  <a href="https://koativa.com.br/">Conheça a Koativa ↗</a>
+  <strong>Uma ideia, um desafio de arquitetura ou uma boa conversa.</strong><br />
+  Vamos conectar?<br /><br />
+  <a href="https://www.linkedin.com/in/kleberandrade/"><strong>LinkedIn ↗</strong></a> &nbsp; · &nbsp;
+  <a href="https://koativa.com.br/">Projetos com a Koativa ↗</a> &nbsp; · &nbsp;
+  <a href="https://kleberandrade.dev/">Meu universo ↗</a>
 </p>

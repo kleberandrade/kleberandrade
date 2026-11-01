@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title">
-<title id="title">Kleber Andrade — ideias ganham forma. Software gera impacto.</title>
+<title id="title">Kleber Andrade — ideias ganham forma. Compartilho conhecimento.</title>
 <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101b29"/><stop offset="1" stop-color="#080d16"/></linearGradient><linearGradient id="accent"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#a78bfa"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#b1c7df" stroke-opacity=".045"/></pattern></defs>
 <rect width="1200" height="430" rx="20" fill="url(#bg)"/><rect width="1200" height="430" rx="20" fill="url(#grid)"/><path d="M24 1H1176" stroke="url(#accent)" stroke-width="2"/>
 <g font-family="Arial, Helvetica, sans-serif">
 <text x="52" y="57" fill="#5eead4" font-size="13" letter-spacing="3">ARQUITETURA / PRODUTOS / CONHECIMENTO</text>
 <text x="48" y="133" fill="#f2f5f9" font-size="64" font-weight="700" letter-spacing="-3">Kleber Andrade</text>
-<text x="52" y="202" fill="#f2f5f9" font-size="32" letter-spacing="-.6">Ideias ganham forma.</text><text x="52" y="246" fill="#5eead4" font-size="32" letter-spacing="-.6">Software gera impacto.</text>
+<text x="52" y="202" fill="#f2f5f9" font-size="32" letter-spacing="-.6">Construo software.</text><text x="52" y="246" fill="#5eead4" font-size="32" letter-spacing="-.6">Compartilho conhecimento.</text>
 <text x="52" y="299" fill="#a9b7c9" font-size="18">Liderança técnica, pesquisa e histórias que ensinam.</text>
 <path d="M52 335H1148" stroke="#273445"/>
 <text x="52" y="382" fill="#dce6f2" font-size="15">CEO / KOATIVA</text><text x="233" y="382" fill="#dce6f2" font-size="15">CTO / NVPRO</text><text x="1148" y="382" text-anchor="end" fill="#5eead4" font-size="16">kleberandrade.dev ↗</text></g>
